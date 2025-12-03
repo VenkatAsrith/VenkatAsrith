@@ -1,45 +1,48 @@
-<!-- HERO / HEADER -->
-<p align="center">
-  <img width="120" src="./assets/memoji.png" alt="Konam Venkat Asrith" />
-</p>
+<div align="center">
 
-<h1 align="center">Konam Venkat Asrith</h1>
-<p align="center">App • Web • IoT • AI</p>
+<img src="https://raw.githubusercontent.com/AsrithKonam/assets/main/memoji_laptop.png" width="250"/>
 
-<!-- Animated typing (no account needed) -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=600&color=33ff66&center=true&vCenter=true&lines=Building+practical+projects;Designing+clean+UIs;Shipping+scalable+systems" alt="Typing animation">
-</p>
+# **Konam Venkat Asrith**
+### App • Web • IoT • AI
 
 ---
 
-## About me
-I build full-stack apps, IoT prototypes and ML/AI experiments. I focus on clear code, reusable components, and polished user experiences.
+### 🌐 Connect With Me
+
+<a href="https://www.linkedin.com/in/venkat-asrith-konam-9a7b57284/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077ff?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:venkatasrith29@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://discord.com/users/venkatasrith_41761" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
 
 ---
 
-## Contact
-- 📧 Email: `venkatasrith29@gmail.com`  
-  *(If you'd prefer a different domain, replace the address above.)*
-- 💼 LinkedIn: [venkat-asrith-konam](https://www.linkedin.com/in/venkat-asrith-konam-9a7b57284/)  
-- 💬 Discord: `venkatasrith_41761`
+### ⚡ Tech Stack
 
-> No Instagram — removed. No Twitter — removed.
-
----
-
-## Quick links
-- 🔗 My LinkedIn: https://www.linkedin.com/in/venkat-asrith-konam-9a7b57284/  
-- 📫 Email: mailto:venkatasrith29@gmail.com  
-- 💬 Discord: `venkatasrith_41761`
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>  
 
 ---
 
-## Tech & Visuals
-<p align="center">
-  <!-- Use small, neat badges that are unlikely to break -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node"/>
-  <img src="https://img.shields.io/badge/Visualizations-00A8E8?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=" alt="Visualizations"/>
-</p>
+### 📊 GitHub Activity
+
+![GitHub Streak](https://streak-stats.demolab.com?user=venkat-asrith&theme=highcontrast&hide_border=true)
+
+---
+
+### 🚆 Display-Board Style Signature  
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=00FF0A&center=true&vCenter=true&width=600&lines=Made+with+❤️+Asrith" />
+
+---
+
+</div>
