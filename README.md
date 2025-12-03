@@ -1,48 +1,48 @@
-<div align="center">
 
-<img src="https://raw.githubusercontent.com/AsrithKonam/assets/main/memoji_laptop.png" width="250"/>
 
-# **Konam Venkat Asrith**
-### App • Web • IoT • AI
+<!-- LED NAME DISPLAY -->
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=2500&pause=800&color=00F7A2&center=true&vCenter=true&width=900&lines=VENKAT+ASRITH" 
+    alt="VENKAT ASRITH"
+  />
+</p>
 
----
+<br>
 
-### 🌐 Connect With Me
+<!-- LED QUOTE 1 -->
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=900&color=FFD700&center=true&vCenter=true&width=900&lines=Where+Innovation+Speaks.;Creating+Impact+With+Every+Line+of+Code." 
+    alt="Innovation Quote"
+  />
+</p>
 
-<a href="https://www.linkedin.com/in/venkat-asrith-konam-9a7b57284/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077ff?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<!-- LED QUOTE 2 (Vinu Ra) -->
 
-<a href="mailto:venkatasrith29@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 
-<a href="https://discord.com/users/venkatasrith_41761" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
+<br><br>
 
----
+<!-- CONTACT ICONS -->
+<h3 align="center">📬 Connect With Me</h3>
 
-### ⚡ Tech Stack
+<p align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>  
+  <!-- Email -->
+  <a href="mailto:venkatasrith29@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
----
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/venkat-asrith-konam-9a7b57284/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-### 📊 GitHub Activity
+  <!-- Discord -->
+  <a href="https://discordapp.com/users/venkatasrith_41761" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=venkat-asrith&theme=highcontrast&hide_border=true)
+</p>
 
----
-
-### 🚆 Display-Board Style Signature  
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=00FF0A&center=true&vCenter=true&width=600&lines=Made+with+❤️+Asrith" />
-
----
-
-</div>
+<br><br>
