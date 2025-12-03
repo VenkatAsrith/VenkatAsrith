@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">Vishwanath Karne</h1>
+<h1 align="center">Venkat Asrith Konam</h1>
 <p align="center"> <em>App, Web, IoT, AI</em> </p>
 
 <p align="center">
