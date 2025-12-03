@@ -1,92 +1,78 @@
-<!-- Hero Section -->
-<p align="center">
-  <img src="https://github.com/your-username/your-username/blob/main/assets/memoji-laptop.png" width="300px" />
-</p>
-
-<h1 align="center">Konam Venkat Asrith</h1>
+<!-- HEADER -->
+<h1 align="center">Vishwanath Karne</h1>
+<p align="center"> <em>App, Web, IoT, AI</em> </p>
 
 <p align="center">
-  <strong>Web Dev • AI/ML • IoT • System Design</strong>
-</p>
-
-<br>
-
-<!-- Socials -->
-<p align="center">
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/venkat-asrith" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  <!-- LinkedIn badge -->
+  <a href="https://www.linkedin.com/in/venkat-asrith-konam-9a7b57284/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-
-  <!-- X/Twitter -->
-  <a href="https://x.com/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter / X-000000?style=for-the-badge&logo=x&logoColor=white">
-  </a>
-
-  <!-- Discord -->
-  <a href="https://discord.com/users/venkatasrith_41761">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
-
-  <!-- Gmail -->
+  <!-- Email badge -->
   <a href="mailto:venkatasrith29@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-@venkatasrith29-green?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-
-</p>
-
-<br>
-
----
-
-## 🌟 About Me  
-🔥 Passionate CSE engineer → building real-world products  
-🔧 Creator of **Smart Attendance System** & **Crop Genius**  
-💡 Interested in **AI-based content leak detection**, **IoT cars**, and **large-scale web systems**  
-🎯 Currently preparing for **GATE CSE** + building impactful side projects
-
----
-
-## 🛠️ Tech Stack
-
-**Frontend**  
-`HTML` · `CSS` · `JavaScript` · `React.js`  
-
-**Backend**  
-`Node.js` · `Express` · `Spring Boot` · `JDBC`  
-
-**Database**  
-`Supabase` · `Firebase` · `MySQL` · `MongoDB`
-
-**Tools & Others**  
-`Git` · `Linux` · `REST APIs` · `Figma` · `OpenAI APIs`
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&hide_border=true" width="48%" />
+  <!-- Dev.to / GitHub Dev badge as example -->
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 ---
 
-## ✨ Fun Section
+## 👋 About me
+- I build apps, websites, IoT systems and AI experiments.
+- I like to visualise technical ideas (diagrams, dashboards, demo apps) — visuals > long text.
+- Open to collabs, internships and product-minded projects.
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00ff99&center=true&vCenter=true&width=500&lines=I+love+building+real+projects!;Always+learning+new+tech!;Let's+collaborate+and+build+🔥" />
+---
+
+## 🔗 Contact
+- **LinkedIn:** [venkat-asrith-konam](https://www.linkedin.com/in/venkat-asrith-konam-9a7b57284/)
+- **Email:** [venkatasrith29@gmail.com](mailto:venkatasrith29@gmail.com)  
+  *(If this is not the correct domain, replace `@gmail.com` with yours.)*
+- **Discord:** `venkatasrith_41761` (DM-able via Discord app)
+
+---
+
+## 🛠 Tech & Tools
+<p>
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <!-- MongoDB logo badge as requested (visual) -->
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  </a>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 ---
 
-## 📬 Contact Me
-
-📩 Email: **venkatasrith29@gmail.com**  
-💬 Discord: **venkatasrith_41761**
+## 🧾 What to show visitors (suggested order)
+1. **Pinned projects** — 3 best projects (one web app, one IoT/prototype, one AI experiment). Use short descriptions and a screenshot/gif.
+2. **Live demo links** — host on Vercel / Netlify / GitHub Pages; add a clear CTA button.
+3. **Readme** — project README with quick setup, screenshots, and a short architecture diagram.
+4. **Resume link** (PDF) — add in repo or link from profile README.
+5. **Contact** — ensure email and LinkedIn links are clickable (they are in the MD above).
 
 ---
 
-⭐ *If you like my work, feel free to star the repo!*
+## 🔧 Quick steps to make these links *actually* work on your GitHub profile
+1. Create (or open) the repository named exactly like your GitHub username (e.g., `venkat-asrith-konam`).  
+   - If you already have that repo, open `README.md` and replace the content with the block above.
+2. Commit & push. GitHub will show that README on your profile.
+3. Test the links in the README by clicking them — LinkedIn and `mailto:` should open in new tabs / your email client.
+4. For live demos/screenshots, upload images to the repo (e.g., `assets/`) and reference them with relative paths so images never 404.
+   - Example: `![screenshot](assets/demo.png)`.
 
+---
+
+## 🔁 Want me to do it for you?
+I can:
+- Update your actual `README.md` (if you give repo link or add me as collaborator).
+- Generate pinned project cards and small gifs/screenshots for the README.
+- Replace the guessed email domain with the correct one if you confirm silently (or I can leave a placeholder).
+
+---
+
+If you want, I’ll convert the above into a polished visual layout that matches your dark-themed style (with the memoji and pixel animations) and produce the final README + image assets ready to upload. Want me to proceed and create the images + final README file?
